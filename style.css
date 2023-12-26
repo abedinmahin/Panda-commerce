@@ -1,0 +1,81 @@
+.container{
+    margin-bottom: 75px;
+}
+.carousel{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    height: 50px;
+    width: 170px;
+    background-color: rgba(244, 72, 72, 0.885);
+    color: #fceae8;
+    border-radius: 10px;
+}
+.taka{
+    color: tomato;
+}
+.cat-1{
+    background-color: rgb(241, 170, 39);
+    padding: 10px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.cat-2{
+    background-color: rgb(125, 54, 197);
+    padding: 10px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.cat-3{
+    background-color: rgb(79, 79, 193);
+    padding: 10px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.categories img{
+    width:120px;
+}
+.categories h1{
+    color: #fefefe;
+}
+.box{
+    box-shadow: slategrey;
+}
+.shoes img{
+    cursor: pointer;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+.backpack img{
+    height: 315px;
+    cursor: pointer;
+}
+.card-footer{
+    background-color: #fefefe;
+    border-top: none;
+}
+#subscribe{
+    background-color:#fceae8 ;
+    height: 350px;
+    border-radius: 15px;
+}
+.bn{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(226, 184, 79);
+    color: #fefefe;
+}
+#subscribe p{
+    color: gray;
+}
+footer{
+    text-align:  center;   
+}
